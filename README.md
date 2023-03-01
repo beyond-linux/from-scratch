@@ -12,3 +12,5 @@ Scripts are designed to be compiled on a disk formatted with live CD/USB (like s
 You can download the necessary packages to create your own custom Linux system from the source code, from the mirrors under the "Files Mirrors" heading in [this](http://ftp.osuosl.org/pub/lfs/lfs-packages/lfs-packages-11.2.tar) link. (For example; lfs-packages-11.3.tar).
 
 # Build Instructions
+
+Run commands below as root.
